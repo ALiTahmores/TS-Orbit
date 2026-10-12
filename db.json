@@ -1,0 +1,738 @@
+{
+  "users": [
+    {
+      "id": "usr_master_alitahmores",
+      "email": "alitahmores343412@gmail.com",
+      "username": "alitahmores",
+      "passwordHash": "$2b$10$9qOEcf5VOrFVvuhNv8wKC.mb8kKYlqoIs7VTd71Z9av37N/gRrNI6",
+      "name": "علی طهمورث",
+      "phone": "09123456789",
+      "role": "OWNER",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=alitahmores",
+      "status": "online",
+      "personalWorkspaceId": "ws_alitahmores_primary",
+      "memberships": [
+        {
+          "workspaceId": "ws_alitahmores_primary",
+          "workspaceName": "فضای کاری علی طهمورث",
+          "role": "OWNER",
+          "permissions": [
+            "all"
+          ],
+          "joinedAt": "2026-08-20T00:00:00.000Z"
+        }
+      ],
+      "createdAt": "۱۴۰۵/۰۱/۰۱",
+      "workspace": "ws_alitahmores_primary"
+    }
+  ],
+  "workspaces": [
+    {
+      "id": "ws_alitahmores_primary",
+      "name": "فضای کاری علی طهمورث",
+      "ownerId": "usr_master_alitahmores",
+      "inviteCode": "ORBITMASTER",
+      "members": [
+        {
+          "userId": "usr_master_alitahmores",
+          "role": "OWNER",
+          "permissions": [
+            "all"
+          ],
+          "joinedAt": "2026-08-20T00:00:00.000Z",
+          "name": "علی طهمورث",
+          "username": "alitahmores",
+          "email": "alitahmores343412@gmail.com",
+          "phone": "09123456789",
+          "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=alitahmores"
+        }
+      ],
+      "createdAt": "۱۴۰۵/۰۱/۰۱"
+    },
+    {
+      "id": "ws_undefined",
+      "name": "فضای کاری من",
+      "inviteCode": "90ELXYDY",
+      "createdAt": "2026-08-20T12:08:01.742Z",
+      "members": [
+        {
+          "role": "OWNER",
+          "permissions": [
+            "*"
+          ],
+          "joinedAt": "۱۴۰۵/۵/۲۹"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "id": "org_1",
+      "name": "هلدینگ تجاری آریا (Arya Commerce Group)",
+      "slug": "arya-commerce",
+      "ownerId": "usr_master_alitahmores",
+      "createdAt": "1405/01/01"
+    }
+  ],
+  "teams": [],
+  "teamMembers": [],
+  "projects": [],
+  "projectMembers": [],
+  "tasks": [],
+  "subtasks": [],
+  "wordpressChecklist": [],
+  "seoChecklist": [],
+  "contentCenter": [],
+  "qaBugs": [],
+  "files": [],
+  "notifications": [],
+  "externalApis": [],
+  "apiLogs": [
+    {
+      "id": "log_1787228349906_lejx",
+      "timestamp": "۱۲:۱۹:۰۹",
+      "method": "POST",
+      "endpoint": "/api/auth/check-identifier",
+      "status": 200,
+      "payload": {
+        "identifier": "alitahmores343412@gmail.com"
+      },
+      "response": {}
+    },
+    {
+      "id": "log_1787228348270_f8ju",
+      "timestamp": "۱۲:۱۹:۰۸",
+      "method": "GET",
+      "endpoint": "/api/health",
+      "status": 200,
+      "payload": {},
+      "response": {}
+    },
+    {
+      "id": "log_1787228311735_n67o",
+      "timestamp": "۱۲:۱۸:۳۱",
+      "method": "GET",
+      "endpoint": "/api/health",
+      "status": 200,
+      "payload": {},
+      "response": {}
+    },
+    {
+      "id": "log_1787227952293_oy5f",
+      "timestamp": "۱۲:۱۲:۳۲",
+      "method": "GET",
+      "endpoint": "/api/health",
+      "status": 200,
+      "payload": {},
+      "response": {}
+    },
+    {
+      "id": "log_1787227906661_talq",
+      "timestamp": "۱۲:۱۱:۴۶",
+      "method": "GET",
+      "endpoint": "/api/health",
+      "status": 200,
+      "payload": {},
+      "response": {}
+    },
+    {
+      "id": "log_1787227861993_r75b",
+      "timestamp": "۱۲:۱۱:۰۱",
+      "method": "GET",
+      "endpoint": "/api/health",
+      "status": 200,
+      "payload": {},
+      "response": {}
+    },
+    {
+      "id": "log_1787227817398_gvgh",
+      "timestamp": "۱۲:۱۰:۱۷",
+      "method": "GET",
+      "endpoint": "/api/health",
+      "status": 200,
+      "payload": {},
+      "response": {}
+    },
+    {
+      "id": "log_1787227771672_yohd",
+      "timestamp": "۱۲:۰۹:۳۱",
+      "method": "GET",
+      "endpoint": "/api/health",
+      "status": 200,
+      "payload": {},
+      "response": {}
+    },
+    {
+      "id": "log_1787227726701_rdf8",
+      "timestamp": "۱۲:۰۸:۴۶",
+      "method": "GET",
+      "endpoint": "/api/health",
+      "status": 200,
+      "payload": {},
+      "response": {}
+    },
+    {
+      "id": "log_1787227715370_kaej",
+      "timestamp": "۱۲:۰۸:۳۵",
+      "method": "GET",
+      "endpoint": "/api/org/data",
+      "status": 200,
+      "payload": {},
+      "response": {}
+    },
+    {
+      "id": "log_1787227714368_bb2l",
+      "timestamp": "۱۲:۰۸:۳۴",
+      "method": "GET",
+      "endpoint": "/api/org/data",
+      "status": 200,
+      "payload": {},
+      "response": {}
+    },
+    {
+      "id": "log_1787227683264_krqn",
+      "timestamp": "۱۲:۰۸:۰۳",
+      "method": "GET",
+      "endpoint": "/api/workspaces",
+      "status": 200,
+      "payload": {},
+      "response": {}
+    },
+    {
+      "id": "log_1787227683262_jccw",
+      "timestamp": "۱۲:۰۸:۰۳",
+      "method": "GET",
+      "endpoint": "/api/owner/approval-stats",
+      "status": 200,
+      "payload": {},
+      "response": {}
+    },
+    {
+      "id": "log_1787227683261_ndkf",
+      "timestamp": "۱۲:۰۸:۰۳",
+      "method": "GET",
+      "endpoint": "/api/users",
+      "status": 200,
+      "payload": {},
+      "response": {}
+    },
+    {
+      "id": "log_1787227683257_4h0g",
+      "timestamp": "۱۲:۰۸:۰۳",
+      "method": "GET",
+      "endpoint": "/api/projects",
+      "status": 200,
+      "payload": {},
+      "response": {}
+    },
+    {
+      "id": "log_1787227683256_w8c8",
+      "timestamp": "۱۲:۰۸:۰۳",
+      "method": "GET",
+      "endpoint": "/api/tasks",
+      "status": 200,
+      "payload": {},
+      "response": {}
+    },
+    {
+      "id": "log_1787227681765_fw8i",
+      "timestamp": "۱۲:۰۸:۰۱",
+      "method": "GET",
+      "endpoint": "/api/owner/approval-stats",
+      "status": 200,
+      "payload": {},
+      "response": {}
+    },
+    {
+      "id": "log_1787227681763_61s2",
+      "timestamp": "۱۲:۰۸:۰۱",
+      "method": "GET",
+      "endpoint": "/api/chat/requests",
+      "status": 200,
+      "payload": {},
+      "response": {}
+    },
+    {
+      "id": "log_1787227681760_2azu",
+      "timestamp": "۱۲:۰۸:۰۱",
+      "method": "GET",
+      "endpoint": "/api/chat/conversations",
+      "status": 200,
+      "payload": {},
+      "response": {}
+    },
+    {
+      "id": "log_1787227681758_ve7p",
+      "timestamp": "۱۲:۰۸:۰۱",
+      "method": "GET",
+      "endpoint": "/api/notifications",
+      "status": 200,
+      "payload": {},
+      "response": {}
+    },
+    {
+      "id": "log_1787227681755_t9sq",
+      "timestamp": "۱۲:۰۸:۰۱",
+      "method": "GET",
+      "endpoint": "/api/chat/users",
+      "status": 200,
+      "payload": {},
+      "response": {}
+    },
+    {
+      "id": "log_1787227681748_yy03",
+      "timestamp": "۱۲:۰۸:۰۱",
+      "method": "GET",
+      "endpoint": "/api/org/data",
+      "status": 200,
+      "payload": {},
+      "response": {}
+    },
+    {
+      "id": "log_1787227681740_s6iu",
+      "timestamp": "۱۲:۰۸:۰۱",
+      "method": "GET",
+      "endpoint": "/api/workspaces",
+      "status": 200,
+      "payload": {},
+      "response": {}
+    },
+    {
+      "id": "log_1787227681585_a6rq",
+      "timestamp": "۱۲:۰۸:۰۱",
+      "method": "GET",
+      "endpoint": "/api/users",
+      "status": 200,
+      "payload": {},
+      "response": {}
+    },
+    {
+      "id": "log_1787227681579_1npv",
+      "timestamp": "۱۲:۰۸:۰۱",
+      "method": "GET",
+      "endpoint": "/api/projects",
+      "status": 200,
+      "payload": {},
+      "response": {}
+    },
+    {
+      "id": "log_1787227681570_oa6w",
+      "timestamp": "۱۲:۰۸:۰۱",
+      "method": "GET",
+      "endpoint": "/api/tasks",
+      "status": 200,
+      "payload": {},
+      "response": {}
+    },
+    {
+      "id": "log_1787227680775_rkh0",
+      "timestamp": "۱۲:۰۸:۰۰",
+      "method": "POST",
+      "endpoint": "/api/auth/login",
+      "status": 200,
+      "payload": {
+        "identifier": "alitahmores343412@gmail.com",
+        "email": "alitahmores343412@gmail.com",
+        "password": "123456"
+      },
+      "response": {}
+    },
+    {
+      "id": "log_1787227675191_2y6l",
+      "timestamp": "۱۲:۰۷:۵۵",
+      "method": "POST",
+      "endpoint": "/api/auth/check-identifier",
+      "status": 200,
+      "payload": {
+        "identifier": "alitahmores343412@gmail.com",
+        "email": "alitahmores343412@gmail.com",
+        "username": "alitahmores343412@gmail.com",
+        "phone": "alitahmores343412@gmail.com"
+      },
+      "response": {}
+    },
+    {
+      "id": "log_1787227670824_j71m",
+      "timestamp": "۱۲:۰۷:۵۰",
+      "method": "GET",
+      "endpoint": "/api/projects",
+      "status": 200,
+      "payload": {},
+      "response": {}
+    },
+    {
+      "id": "log_1787227670821_35p1",
+      "timestamp": "۱۲:۰۷:۵۰",
+      "method": "GET",
+      "endpoint": "/api/sites/status",
+      "status": 200,
+      "payload": {},
+      "response": {}
+    },
+    {
+      "id": "log_1787227670225_gkie",
+      "timestamp": "۱۲:۰۷:۵۰",
+      "method": "GET",
+      "endpoint": "/api/sites/status",
+      "status": 200,
+      "payload": {},
+      "response": {}
+    },
+    {
+      "id": "log_1787227670197_ikua",
+      "timestamp": "۱۲:۰۷:۵۰",
+      "method": "GET",
+      "endpoint": "/api/projects",
+      "status": 200,
+      "payload": {},
+      "response": {}
+    },
+    {
+      "id": "log_1787227502121_jw2r",
+      "timestamp": "۱۲:۰۵:۰۲",
+      "method": "POST",
+      "endpoint": "/api/auth/check-identifier",
+      "status": 200,
+      "payload": {
+        "identifier": "alitahmores343412@gmail.com",
+        "email": "alitahmores343412@gmail.com",
+        "username": "alitahmores343412@gmail.com",
+        "phone": "alitahmores343412@gmail.com"
+      },
+      "response": {}
+    },
+    {
+      "id": "log_1787227494493_3tr8",
+      "timestamp": "۱۲:۰۴:۵۴",
+      "method": "GET",
+      "endpoint": "/api/projects",
+      "status": 200,
+      "payload": {},
+      "response": {}
+    },
+    {
+      "id": "log_1787227494486_yz7s",
+      "timestamp": "۱۲:۰۴:۵۴",
+      "method": "GET",
+      "endpoint": "/api/sites/status",
+      "status": 200,
+      "payload": {},
+      "response": {}
+    },
+    {
+      "id": "log_1787227493706_zlrk",
+      "timestamp": "۱۲:۰۴:۵۳",
+      "method": "GET",
+      "endpoint": "/api/projects",
+      "status": 200,
+      "payload": {},
+      "response": {}
+    },
+    {
+      "id": "log_1787227493700_net2",
+      "timestamp": "۱۲:۰۴:۵۳",
+      "method": "GET",
+      "endpoint": "/api/sites/status",
+      "status": 200,
+      "payload": {},
+      "response": {}
+    },
+    {
+      "id": "log_1787227485043_7zka",
+      "timestamp": "۱۲:۰۴:۴۵",
+      "method": "GET",
+      "endpoint": "/api/health",
+      "status": 200,
+      "payload": {},
+      "response": {}
+    },
+    {
+      "id": "log_1787227467554_u04u",
+      "timestamp": "۱۲:۰۴:۲۷",
+      "method": "POST",
+      "endpoint": "/api/auth/check-identifier",
+      "status": 200,
+      "payload": {
+        "identifier": "nonexistent@example.com"
+      },
+      "response": {}
+    },
+    {
+      "id": "log_1787227467531_53gt",
+      "timestamp": "۱۲:۰۴:۲۷",
+      "method": "POST",
+      "endpoint": "/api/auth/check-identifier",
+      "status": 200,
+      "payload": {
+        "identifier": "09123456789"
+      },
+      "response": {}
+    },
+    {
+      "id": "log_1787227467513_glnk",
+      "timestamp": "۱۲:۰۴:۲۷",
+      "method": "POST",
+      "endpoint": "/api/auth/check-identifier",
+      "status": 200,
+      "payload": {
+        "identifier": "@alitahmores"
+      },
+      "response": {}
+    },
+    {
+      "id": "log_1787227462665_k63w",
+      "timestamp": "۱۲:۰۴:۲۲",
+      "method": "POST",
+      "endpoint": "/api/auth/check-identifier",
+      "status": 200,
+      "payload": {
+        "identifier": "alitahmores343412@gmail.com"
+      },
+      "response": {}
+    }
+  ],
+  "wpSites": [],
+  "wpLogs": [],
+  "wpWebhooks": [],
+  "comments": [],
+  "milestones": [],
+  "auditLogs": [
+    {
+      "id": "audit_1787227680932_7h3t",
+      "userId": "usr_master_alitahmores",
+      "action": "USER_LOGIN",
+      "details": "کاربر وارد سیستم شد: علی طهمورث (alitahmores343412@gmail.com)",
+      "timestamp": "۱۴۰۵/۵/۲۹ ۱۲:۰۸:۰۰"
+    }
+  ],
+  "conversations": [],
+  "conversationMembers": [],
+  "messages": [],
+  "conversationRequests": [],
+  "conversationPermissions": [],
+  "pinnedMessages": [],
+  "messageReactions": [],
+  "readReceipts": [],
+  "departments": [],
+  "departmentMembers": [],
+  "departmentPermissions": [],
+  "departmentModules": [],
+  "departmentReports": [
+    {
+      "id": "rep_seed_1",
+      "workspaceId": "ws_primary_owner",
+      "creatorId": "u_primary_owner",
+      "departmentId": "AGENCY",
+      "scope": "agency",
+      "title": "گزارش جامع استراتژیک و پایش کل آژانس - ۱۴۰۵/۵/۲۹",
+      "content": "گزارش ارزیابی اولیه عملکرد کلی آژانس دیجیتال مارکتینگ. ۴ وب‌سایت فعال مشتریان تحت مدیریت دپارتمان‌های فنی، سئو و محتوا قرار دارند. نرخ بازدهی کلی سیستم ۸۵٪ ارزیابی گردیده است.",
+      "generatedAt": "۱۴۰۵/۵/۲۹ - ۱۲:۰۸:۰۱",
+      "createdBy": "مدیر ارشد آژانس",
+      "metrics": {
+        "totalTasks": 120,
+        "completed": 92,
+        "pending": 28,
+        "overdue": 4,
+        "velocity": 85,
+        "efficiency": 85
+      },
+      "projectSummary": {
+        "totalProjects": 4,
+        "completedProjects": 2,
+        "avgProgress": 78
+      },
+      "taskSummary": {
+        "total": 120,
+        "completed": 92,
+        "pending": 28,
+        "overdue": 4
+      },
+      "clientProjectsMatrix": [
+        {
+          "id": "p1",
+          "name": "وب‌سایت فروشگاهی دیجی‌کالا پلاس",
+          "departmentName": "دپارتمان فنی / وردپرس",
+          "progress": 88,
+          "status": "on_track",
+          "statusLabel": "در مسیر (On-Track)",
+          "manager": "علی رضایی"
+        },
+        {
+          "id": "p2",
+          "name": "کمپین SEO و لندینگ پیج آریا داروها",
+          "departmentName": "دپارتمان مارکتینگ / سئو",
+          "progress": 45,
+          "status": "at_risk",
+          "statusLabel": "در معرض ریسک (At-Risk)",
+          "manager": "مریم حسینی"
+        },
+        {
+          "id": "p3",
+          "name": "بازطراحی کامل پورتال بانک پارسیان",
+          "departmentName": "دپارتمان طراحی UI/UX",
+          "progress": 30,
+          "status": "delayed",
+          "statusLabel": "دارای تأخیر (Delayed)",
+          "manager": "امیر طاهری"
+        },
+        {
+          "id": "p4",
+          "name": "پشتیبانی فنی و سئوی صرافی والکس",
+          "departmentName": "دپارتمان پشتیبانی / فنی",
+          "progress": 95,
+          "status": "on_track",
+          "statusLabel": "در مسیر (On-Track)",
+          "manager": "سارا کاظمی"
+        }
+      ],
+      "departmentBreakdown": [
+        {
+          "departmentId": "d1",
+          "departmentName": "دپارتمان توسعه فنی و وردپرس",
+          "totalTasks": 45,
+          "completedTasks": 35,
+          "overdueTasks": 3,
+          "completionRate": 78
+        },
+        {
+          "departmentId": "d2",
+          "departmentName": "دپارتمان دیجیتال مارکتینگ و سئو",
+          "totalTasks": 38,
+          "completedTasks": 28,
+          "overdueTasks": 1,
+          "completionRate": 74
+        },
+        {
+          "departmentId": "d3",
+          "departmentName": "دپارتمان تولید محتوا و UI/UX",
+          "totalTasks": 37,
+          "completedTasks": 29,
+          "overdueTasks": 0,
+          "completionRate": 78
+        }
+      ],
+      "memberBottlenecks": [
+        {
+          "memberName": "امیرحسین رضایی",
+          "departmentName": "دپارتمان فنی / وردپرس",
+          "overdueCount": 3,
+          "pendingCount": 8,
+          "statusText": "انباشت ۳ وظیفه معوقه نیازمند بازتوزیع نیرو"
+        },
+        {
+          "memberName": "زهرا احمدی",
+          "departmentName": "دپارتمان محتوا و SEO",
+          "overdueCount": 1,
+          "pendingCount": 5,
+          "statusText": "حجم بالای اصلاحات لندینگ‌ها (نیازمند پشتیبانی)"
+        }
+      ],
+      "bottlenecks": [
+        "۴ وظیفه معوقه پرریسک در دپارتمان فنی نیازمند اقدام فوری است.",
+        "تراکم کاری بالا روی پروژه‌های لندینگ پیج."
+      ],
+      "keyTakeaways": [
+        "پیشرفت کل پروژه‌های فعال آژانس در محدوده مثبت ارزیابی می‌شود.",
+        "توصیه مدیریتی: تخصیص نیروی کمکی به دپارتمان توسعه فنی."
+      ]
+    }
+  ],
+  "departmentSettings": [],
+  "departmentChats": [],
+  "departmentChannels": [],
+  "departmentRoles": [],
+  "departmentTemplates": [],
+  "navigationGroups": [],
+  "navigationItems": [],
+  "moduleDefinitions": [],
+  "moduleInstances": [],
+  "modulePermissions": [],
+  "approvalRequests": [],
+  "approvalHistory": [],
+  "notificationQueue": [],
+  "emailQueue": [],
+  "userProfiles": [
+    {
+      "id": "prof_master_alitahmores",
+      "userId": "usr_master_alitahmores",
+      "fullName": "علی طهمورث",
+      "emailAddress": "alitahmores343412@gmail.com",
+      "phoneNumber": "09123456789",
+      "profilePhoto": "https://api.dicebear.com/7.x/avataaars/svg?seed=alitahmores",
+      "registrationDate": "۱۴۰۵/۰۱/۰۱",
+      "registrationIp": "127.0.0.1",
+      "country": "IR (ایران)",
+      "city": "تهران",
+      "timezone": "Asia/Tehran",
+      "preferredLanguage": "fa",
+      "preferredTheme": "dark",
+      "browser": "Google Chrome",
+      "operatingSystem": "Windows",
+      "deviceType": "Desktop",
+      "referralSource": "System Primary Master Admin",
+      "currentStatus": "ACTIVE",
+      "assignedRole": "OWNER",
+      "assignedTeam": null,
+      "assignedWorkspace": "ws_alitahmores_primary"
+    }
+  ],
+  "userSettings": [
+    {
+      "id": "set_master_alitahmores",
+      "userId": "usr_master_alitahmores",
+      "theme": "dark",
+      "language": "fa",
+      "timezone": "Asia/Tehran",
+      "notificationsEnabled": true,
+      "emailNotifications": true,
+      "smsNotifications": false
+    }
+  ],
+  "userSessions": [
+    {
+      "id": "sess_1787227680932",
+      "userId": "usr_master_alitahmores",
+      "email": "alitahmores343412@gmail.com",
+      "name": "علی طهمورث",
+      "ipAddress": "127.0.0.1",
+      "browser": "Google Chrome",
+      "operatingSystem": "Windows",
+      "device": "Desktop",
+      "lastActivity": "۱۴۰۵/۵/۲۹ ۱۲:۰۸:۰۰",
+      "status": "active"
+    }
+  ],
+  "loginHistory": [
+    {
+      "id": "lh_1787227680931_lepb",
+      "userId": "usr_master_alitahmores",
+      "email": "alitahmores343412@gmail.com",
+      "loginDate": "۱۴۰۵/۵/۲۹",
+      "loginTime": "۱۲:۰۸:۰۰",
+      "logoutTime": null,
+      "sessionDuration": null,
+      "ipAddress": "127.0.0.1",
+      "country": "IR (ایران)",
+      "browser": "Google Chrome",
+      "operatingSystem": "Windows",
+      "device": "Desktop",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+      "sessionId": "sess_1787227680932",
+      "authenticationMethod": "Dual Identifier Login",
+      "loginResult": "Successful"
+    }
+  ],
+  "userDevices": [],
+  "securityEvents": [],
+  "profileImages": [],
+  "userPreferences": [
+    {
+      "id": "pref_master_alitahmores",
+      "userId": "usr_master_alitahmores",
+      "dashboardLayout": "grid",
+      "itemsPerPage": 10,
+      "marketingEmails": false
+    }
+  ],
+  "userActivities": []
+}
